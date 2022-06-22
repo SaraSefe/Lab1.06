@@ -16,8 +16,44 @@
 
 
     ============
-    Name: Salva
+    Name: Salvatore
     Surname : Ramirez
+    Salary: 19000
+
+
+    ============
+    Name: Antonio
+    Surname : Gonzalez
+    Salary: 20000
+
+
+    ============
+    Name: Raquel
+    Surname : Robles
+    Salary: 20000
+
+
+    ============
+    Name: Lucía
+    Surname : Chica
+    Salary: 12500
+
+
+    ============
+    Name: Laia
+    Surname : Tienda
+    Salary: 20000
+
+
+    ============
+    Name: Helena
+    Surname : Pintor
+    Salary: 20000
+
+
+    ============
+    Name: Eric
+    Surname : Mas
     Salary: 20000
 
 
